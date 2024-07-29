@@ -14,11 +14,12 @@
     border: #E0A75E !important;
 } */
 
-.accordion-button:not(.collapsed){
+.accordion-button:not(.collapsed) {
     color: #E0A75E !important;
-    background-color: #FFF8DB !important; 
+    background-color: #FFF8DB !important;
 }
-.card{
+
+.card {
     border: #FFF8DB;
 
 }
