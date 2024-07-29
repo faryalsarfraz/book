@@ -1,0 +1,24 @@
+.primary {
+    background-color: #E0A75E;
+}
+
+.btn-primary {
+    color: white !important;
+    background-color: #E0A75E !important;
+    border: #E0A75E !important;
+}
+
+/* .accordion {
+    color: white !important;
+    background-color: #E0A75E !important;
+    border: #E0A75E !important;
+} */
+
+.accordion-button:not(.collapsed){
+    color: #E0A75E !important;
+    background-color: #FFF8DB !important; 
+}
+.card{
+    border: #FFF8DB;
+
+}
